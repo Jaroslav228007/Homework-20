@@ -2,14 +2,14 @@
   "name": "jslessons",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://  нікнейм на гітхабі.github.io/назва вашого репо",
+  "homepage": "https://Jaroslav228007.github.io/Homework-20",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ваш репо/"
+    "build": "parcel build src/*.html --public-url /Homework-20/"
   },
   "repository": {
     "type": "git",
-    "url": "git+посилання на ваш репозиторій.git"
+    "url": "git+https://github.com/Jaroslav228007/Homework-20.git"
   },
   "keywords": [],
   "author": "",
